@@ -31,7 +31,7 @@ This project helps users discover new music by generating 40 similar song recomm
 
 ## 📊 Dataset
 
-- **Source:** [Kaggle Spotify Dataset](https://www.kaggle.com/datasets)  
+- **Source:** [Kaggle Spotify Dataset]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks))  
 - **Size:** ~280,000 songs  
 - **Key Columns Used:** `genres`, `popularity`, `year`, `track_id`  
 - **Preprocessing:**  
@@ -75,7 +75,7 @@ This project helps users discover new music by generating 40 similar song recomm
 
 | Spotify Playlist (Input) | Recommended Tracks (Output) |
 |--------------------------|-----------------------------|
-| ![Spotify Playlist](screenshots/Playlist_Snippet.png) | ![Recommended Tracks](screenshots/Recommender_System_Output.png) |
+| ![Spotify Playlist](Playlist_Snippet.png) | ![Recommended Tracks](Recommender_System_Output.png) |
 
 ---
 
